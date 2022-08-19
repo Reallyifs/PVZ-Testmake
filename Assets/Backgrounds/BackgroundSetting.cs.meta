@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6273d0a519c7f34794b73a5439fbc9b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bgTex: {instanceID: 0}
+  - loading_Tex: {fileID: 2800000, guid: 0bd2f3aaeb094c849951391558f10bb2, type: 3}
+  - normol_BgTex: {fileID: 2800000, guid: ac1835055e8780e4b87db86486274f10, type: 3}
+  - world_1_BgTex: {fileID: 2800000, guid: 45a94cdb988bad04ebc4b1f5e81a5ab2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
